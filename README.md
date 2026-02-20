@@ -49,7 +49,7 @@
 
 ---
 
-## 方案对比：为什么推荐 https://www.google.com/search?q=ai.muooy.com？
+## 方案对比：为什么推荐 ai.muooy.com？
 
 | 维度 | 自购礼品卡 (iOS) | 虚拟信用卡 (DIY) | **muooy 专业代充** |
 | --- | --- | --- | --- |
